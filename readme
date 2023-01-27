@@ -1,51 +1,52 @@
+# Creating a hospital management system 
 
+## we should have modals and those modals are :
 
+## Patients
 
+ 	>Notice!!!! that we have differents categories of patients there's patients cared by health assurance companies such as:
+  e.g:
+  - CIGNA most known is the East-African countries
+  - Globality
+  - Expatplus
+  - Global Health
+  - etc...
 
-
-
-
-Creating a hospital management system 
-
-we should have modals and those modals are :
--Patients: 
-
- Notice!!!! that we have differents categories of patients there's patients cared by health assurance companies such as:
- e.g * CIGNA most known is the East-African countries
-     * Globality
-     *Expatplus
-     *Global Health
-     *etc...
-  but other are not covered they take care of their hospital bills by them selves
+  > but other are not covered they take care of their hospital bills by them selves
   
-  
--  Doctors: 
 
-- Hospital manager:
+## Doctors: 
 
--services:
- Departments
-1. Reception (Amani, Sarah):
-	UI where the receptionist will enter information from the forms the patients will have filled.
-	UI where the receptionist allocates patients to doctors (appointment).
+- Hospital manager
 
-2. Account (Joas, Kidan)
-	UI for the consultation receipt
-	UI for the lab receipt
-	UI for the drugs receipt
-3. Consultation (Styve)
-	UI for collecting patients details
-	UI where the nurse enters his timetable 
+- services
 
-4. Doctor (Dunia, Salma)
-	UI for collecting patients symptoms and making a decision or prescriptions
-	UI where the doctor enters his timetable 
+ ## Departments
 
-5. Laboratory (Angella)
-	UI where the lab person enters the result of the lab tests
+### 1. Reception (Amani, Sarah):
 
-6. Pharmacy (Darty)
-	Table for pharmacy with all the information about the drugs
-7. Rooms management (Levi)
-	Table for room management.
+  - UI where the receptionist will enter information from the forms the patients will have filled
+
+  - UI where the receptionist allocates patients to doctors (appointment)
+
+### 2. Account (Joas, Kidan)
+- UI for the consultation receipt
+- UI for the lab receipt
+- UI for the drugs receipt
+
+### 3. Consultation (Styve)
+-	UI for collecting patients details
+-	UI where the nurse enters his timetable 
+
+### 4. Doctor (Dunia, Salma)
+- UI for collecting patients symptoms and making a decision or prescriptions
+- UI where the doctor enters his timetable 
+
+### 5. Laboratory (Angella)
+- UI where the lab person enters the result of the lab tests
+
+### 6. Pharmacy (Darty)
+- Table for pharmacy with all the information about the drugs
+### 7. Rooms management (Levi)
+- Table for room management.
 
